@@ -23,6 +23,67 @@ h1 {
     margin-bottom: 10px;
 }
 
+/* ===================================== */
+/* Authors                              */
+/* ===================================== */
+
+.authors {
+    margin-top: 12px;
+}
+
+.authors p {
+    font-size: 1.15rem;
+    color: #000000;
+    line-height: 1.7;
+    margin: 0;
+}
+
+.authors sup {
+    font-size: 0.72em;
+    color: #555555;
+}
+
+.affiliations {
+    margin-top: 14px;
+    color: #444444;
+    font-size: 0.85rem;
+    line-height: 1.6;
+}
+
+.affiliations p {
+    margin: 1px 0;
+}
+
+.affiliations sup {
+    font-size: 0.78em;
+    color: #777777;
+}
+
+.ieee-member {
+    font-size: 0.85em;
+    color: #666666;
+    font-style: italic;
+    white-space: nowrap;
+}
+
+.emails {
+    margin-top: 12px;
+    font-size: 0.82rem;
+    color: #555555;
+    line-height: 1.6;
+}
+
+.emails p {
+    margin: 0;
+}
+
+.corresponding {
+    font-size: 0.85rem;
+    color: #666666;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
 h2 {
     margin-top: 50px;
     margin-bottom: 20px;
